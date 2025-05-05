@@ -8,7 +8,7 @@ Professional Summary: Experienced IT professional with over 16 years in systems 
 
 Work Experience:
 
-Director
+CEO/CTO
 Smartep
 June 2016 – 2024
 Leading the company specializing in automation systems for production management.
